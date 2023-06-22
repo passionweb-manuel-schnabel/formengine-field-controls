@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:generate_qr_code/Resources/Private/Language/locallang_db" date="2023-05-19T13:34:38Z" product-name="generate_qr_code">
+		<header/>
+		<body>
+			<trans-unit id="plugin_generate_qr_code_example.name" resname="plugin_generate_qr_code_example.name">
+				<source>Generate QR Code</source>
+			</trans-unit>
+			<trans-unit id="plugin_generate_qr_code_example.description" resname="plugin_generate_qr_code_example.description">
+				<source>Generating a QR code within a controller</source>
+			</trans-unit>
+			<trans-unit id="qr_code_option.target" resname="qr_code_option.target">
+                <source>Target</source>
+            </trans-unit>
+            <trans-unit id="qr_code_option.primary_color" resname="qr_code_option.primary_color">
+                <source>Primary color</source>
+            </trans-unit>
+            <trans-unit id="qr_code_option.secondary_color" resname="qr_code_option.secondary_color">
+                <source>Secondary color</source>
+            </trans-unit>
+		</body>
+	</file>
+</xliff>
