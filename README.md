@@ -1,10 +1,10 @@
-# Add FormEngine field controls
+# Add FormEngine fieldControls
 
-Usage of field controls to extend TCA functionality (TYPO3 CMS)
+Usage of fieldControls to extend TCA functionality (TYPO3 CMS)
 
 ## What does it do?
 
-Extends the FormEngine and adds a field control button next to the description field.
+Extends the FormEngine and adds a fieldControl button next to the description field.
 
 ## Installation
 

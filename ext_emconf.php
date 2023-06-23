@@ -1,8 +1,8 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'Add FormEngine field controls',
-    'description' => 'Extends the FormEngine and adds a field control button next to the description field.',
+    'title' => 'Add FormEngine fieldControls',
+    'description' => 'Extends the FormEngine and adds a fieldControl button next to the description field.',
     'category' => 'backend',
     'author' => 'Manuel Schnabel',
     'author_email' => 'service@passionweb.de',

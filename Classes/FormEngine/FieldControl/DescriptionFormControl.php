@@ -14,7 +14,7 @@ class DescriptionFormControl extends AbstractNode
     {
         $resultArray = [
             'iconIdentifier' => 'actions-document-synchronize',
-            'title' => 'Custom field control title',
+            'title' => 'Custom fieldControl title',
             'linkAttributes' => [
                 'id' => 'appendDescription',
                 'data-page-id' => $this->data['databaseRow']['uid'],
